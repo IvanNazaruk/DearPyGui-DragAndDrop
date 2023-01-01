@@ -44,7 +44,7 @@ dpg.start_dearpygui()
 dpg.destroy_context()
 ```
 
-### More examples of use are in the [Examples folder](https://github.com/IvanNazaruk/DearPyGui-DragAndDrop/Examples)
+### More examples of use are in the [Examples folder](https://github.com/IvanNazaruk/DearPyGui-DragAndDrop/tree/main/Examples)
 
 ## Supported Formats
 
