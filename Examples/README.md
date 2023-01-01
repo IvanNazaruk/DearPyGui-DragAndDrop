@@ -29,7 +29,7 @@ changes the theme of the window and the style of the cursor.
 Let's expand our example again, now the window theme depends on the key presses (CTRL, ALT, SHIFT).
 ![example_4](https://user-images.githubusercontent.com/46572469/210181492-3a9bca4a-005a-4e5c-b8cf-4a39b041ef27.gif)
 
-## [Example №5: inheriting *DragAndDrop* or how to add an extra function to Drag And Drop](example4.py)
+## [Example №5: inheriting *DragAndDrop* or how to add an extra function to Drag And Drop](example5.py)
 
 Probably you need a lot of *DragAndDrop* functions when developing some applications, 
 and only one function can be attached to `set_drop`. 
